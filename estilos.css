@@ -1,0 +1,169 @@
+body{
+	  background: -webkit-radial-gradient(
+				#7DC4F7,
+				#3EA8F4,
+				#0D8DE7,
+				#085891
+				);
+background: -moz-radial-gradient(
+				#7DC4F7,
+				#3EA8F4,
+				#0D8DE7,
+				#085891
+				);
+background: -o-radial-gradient(
+				#7DC4F7,
+				#3EA8F4,
+				#0D8DE7,
+				#085891
+				);
+}
+header{
+	background-color: yellow;
+	text-align: center;
+	border-radius: 10px;
+
+}
+
+nav{
+	background-color: orange;
+	display: inline-block;
+	width: 24%;
+	text-align: center;
+	border-radius: 10px;
+	float:left;
+	margin-right: 1%;
+	position: relative;
+
+
+
+}
+
+main{
+	background-color: #DAF0BB;
+	display: inline-block;
+	width: 74%;
+	text-align: center;
+	border-radius: 10px;
+	margin-left: 1%;
+	position: ;
+
+
+	
+
+
+}
+
+article{
+	background-color: #BBF0EE;
+	
+	margin: 0;
+	padding: 0;
+	width: 90%;
+	text-align: center;
+	display: flex;
+	position:  ;
+	float: ;
+	margin-bottom: 5%;
+	margin-right: auto ;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	border-radius: 10px;
+}
+
+footer{
+	background-color: #EFC9F4;
+	text-align: center;
+	border-radius: 10px;
+}
+
+input{
+	background-color: yellow;
+}
+h3{
+	background-color: #F6E1B9;
+	border-radius: 10px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;s
+	
+	
+.alto{
+	height: 5000px;
+	width: 40%;
+}
+	
+	
+
+}
+
+
+.header_article{
+	background-color: #EFC9F4;
+
+	height: ;
+	padding-bottom: 10px; /*separa el filo del contenedor hacia afuera respecto a su padre*/
+	
+}
+.time{
+	background-color: #B9F6DE;
+	border-radius: 10px;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+
+.article_article{
+	background-color: #AFF09B;
+	width: 80%;
+	color: black;
+	float: right;
+
+}
+/*time{
+	color: red;
+	background-color: #B9F6DE;
+	width: 80%;
+}*/
+.articulo {
+width: 80%;
+height: 80%;
+margin: auto;
+
+}
+
+.linea{
+	position: relative;
+	width: 100%;
+	float:left;
+	height: 50px;
+	background-color: yellow;
+	display: flex;
+}
+.input{
+	
+	width: 30%;
+	float: left;
+	
+	
+}
+.parrafo{
+	width: 90%;
+	float: left;
+
+	position: absolute;
+}
+.boton{
+	width: 30%;
+	
+	
+	float: right;
+
+}
+.footer_article{
+	background-color: #EDCE53;
+}
